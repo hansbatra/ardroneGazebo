@@ -1,0 +1,101 @@
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_Altimeter
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_RawMagnetic
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_MotorPWM
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_ControllerState
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_MotorCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_Supply
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_VelocityZCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_RC
+[  0%] [  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_Compass
+Built target _cvg_sim_msgs_generate_messages_check_deps_HeadingCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_ServoCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_PositionXYCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_Altitude
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_RuddersCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_MotorStatus
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_HeightCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_YawrateCommand
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_RawImu
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_RawRC
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_VelocityXYCommand
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_AttitudeCommand
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _cvg_sim_msgs_generate_messages_check_deps_ThrustCommand
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_vector31
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_phys_measures
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_zimmu_3000
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_euler_angles
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_vision_raw
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_time
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_vision_of
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_hdvideo_stream
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_FlightAnim
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_wifi
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_games
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_pwm
+[  0%] [  0%] [  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_trackers_send
+Built target _ardrone_autonomy_generate_messages_check_deps_navdata_trims
+Built target _ardrone_autonomy_generate_messages_check_deps_navdata_references
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_LedAnim
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_altitude
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_vector21
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_rc_references
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_raw_measures
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_video_stream
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_CamSelect
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_demo
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_watchdog
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_vision_detect
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_matrix33
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_Navdata
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_kalman_pressure
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_vision
+[  0%] [  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_pressure_raw
+Built target _ardrone_autonomy_generate_messages_check_deps_RecordEnable
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_vision_perf
+[  0%] [  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_gyros_offsets
+Built target _ardrone_autonomy_generate_messages_check_deps_navdata_adc_data_frame
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_magneto
+[  0%] [  0%] Built target std_msgs_generate_messages_cpp
+Built target std_msgs_generate_messages_lisp
+[  0%] [  0%] Performing update step for 'ardronelib'
+[  0%] Built target nav_msgs_generate_messages_lisp
+Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target _ardrone_autonomy_generate_messages_check_deps_navdata_wind_speed
+[  0%] [  0%] Built target nav_msgs_generate_messages_py
+Performing configure step for 'ardronelib'
+[  0%] No configure
+Built target sensor_msgs_generate_messages_py
+[  1%] [  1%] Built target nav_msgs_generate_messages_cpp
+Performing build step for 'ardronelib'
+[  1%] Built target sensor_msgs_generate_messages_cpp
+[  2%] [  2%] Built target _cvg_sim_gazebo_plugins_generate_messages_check_deps_SetBias
+[  3%] Libs already extracted
+Building target static
+Building CXX object tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/hector_gazebo_ros_gps.dir/src/gazebo_ros_gps.cpp.o
+Building CXX object tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/diffdrive_plugin_6w.dir/src/diffdrive_plugin_6w.cpp.o
+[  4%] Building CXX object tum_simulator/cvg_sim_gazebo_plugins/CMakeFiles/hector_gazebo_ros_magnetic.dir/src/gazebo_ros_magnetic.cpp.o
+Architecture x86_64 is already built
+Creating universal static lib file from architectures x86_64
+Build done.
+[31mChecking required Ubuntu packages ...[0m
+ok.
+[32;01mBuilding ARDroneTool/Lib[0m
+[32;01mBuilding ARDroneTool/Lib[0m
+[  5%] Performing install step for 'ardronelib'
+[  5%] Completed 'ardronelib'
+[  7%] Built target ardronelib
+Base path: /home/hans/ardrone_ws
+Source space: /home/hans/ardrone_ws/src
+Build space: /home/hans/ardrone_ws/build
+Devel space: /home/hans/ardrone_ws/devel
+Install space: /home/hans/ardrone_ws/install
+####
+#### Running command: "make cmake_check_build_system" in "/home/hans/ardrone_ws/build"
+####
+####
+#### Running command: "make -j4 -l4" in "/home/hans/ardrone_ws/build"
+####
